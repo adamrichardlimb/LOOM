@@ -1,0 +1,10 @@
+{
+  "prefix": "!",
+  "token": "YOUR TOKEN ID HERE",
+  "application_id": "YOUR APP ID HERE",
+  "owners": [
+    12345
+  ],
+  "submissions": 12345,
+  "root": 12345
+}
